@@ -14,7 +14,7 @@
 // limitations under the License.
 
 android_app {
-    name: "DerpWalls",
+    name: "YAAPWalls",
     resource_dirs: ["res"],
     sdk_version: "current",
     product_specific: true,

@@ -17,7 +17,7 @@
 -->
 <resources>
     <array name="partner_wallpapers" translatable="false">
-        <item>wallpaper_0</item>
+<item>wallpaper_0</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
         <item>wallpaper_3</item>
@@ -35,5 +35,13 @@
         <item>wallpaper_15</item>
         <item>wallpaper_16</item>
         <item>wallpaper_17</item>
+        <item>wallpaper_18</item>
+        <item>wallpaper_19</item>
+        <item>wallpaper_20</item>
+        <item>wallpaper_21</item>
+        <item>wallpaper_22</item>
+        <item>wallpaper_23</item>
+        <item>wallpaper_24</item>
+        <item>wallpaper_25</item>
     </array>
 </resources>

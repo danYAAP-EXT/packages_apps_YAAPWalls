@@ -17,7 +17,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.derpfest.walls">
+    package="org.yaap.walls">
 
     <application
         android:label="@string/app_name"
